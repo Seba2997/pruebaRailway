@@ -1,13 +1,13 @@
-package com.eduplatform.apiUsuario;
+package com.apiUsuarioPrueba.apiUsuarioPrueba;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiUsuarioApplication {
+public class ApiUsuarioPruebaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiUsuarioApplication.class, args);
+		SpringApplication.run(ApiUsuarioPruebaApplication.class, args);
 	}
 
 }
